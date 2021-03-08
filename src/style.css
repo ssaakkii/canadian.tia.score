@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+
+#root {
+	padding: 20px;
+}
+
+.Low{
+	background-color: #1b88f5;
+	color: white;
+}
+
+.Medium{
+	background-color: #fad900;
+	color: white;
+}
+
+.High{
+	background-color: #ff476c;
+	color: white;
+}
