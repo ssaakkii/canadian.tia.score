@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/canadian.tia.score/static/css/main.825a924f.chunk.css",
+    "main.js": "/canadian.tia.score/static/js/main.6e3ebe5b.chunk.js",
+    "main.js.map": "/canadian.tia.score/static/js/main.6e3ebe5b.chunk.js.map",
+    "runtime-main.js": "/canadian.tia.score/static/js/runtime-main.b84e83dd.js",
+    "runtime-main.js.map": "/canadian.tia.score/static/js/runtime-main.b84e83dd.js.map",
+    "static/js/2.264e91fc.chunk.js": "/canadian.tia.score/static/js/2.264e91fc.chunk.js",
+    "static/js/2.264e91fc.chunk.js.map": "/canadian.tia.score/static/js/2.264e91fc.chunk.js.map",
+    "index.html": "/canadian.tia.score/index.html",
+    "static/css/main.825a924f.chunk.css.map": "/canadian.tia.score/static/css/main.825a924f.chunk.css.map",
+    "static/js/2.264e91fc.chunk.js.LICENSE.txt": "/canadian.tia.score/static/js/2.264e91fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84e83dd.js",
+    "static/js/2.264e91fc.chunk.js",
+    "static/css/main.825a924f.chunk.css",
+    "static/js/main.6e3ebe5b.chunk.js"
+  ]
+}
